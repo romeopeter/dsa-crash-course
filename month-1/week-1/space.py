@@ -4,4 +4,4 @@ def create_matrix(n):
     return [[0] * n for _ in range(n)]
 
 # 
-print(create_matrix(3))
+print(create_matrix(3))  # O(n²) space complexity

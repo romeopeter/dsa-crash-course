@@ -1,4 +1,4 @@
-# Introduction to Complexity Analysis (7 - 14 Jan, 2025)
+# Foundation of Data Structure: Introduction to Complexity Analysis (7 - 14 Jan, 2025)
 
 complexity analysis measures how an algorithm performs as the size of its inputs grows. It allows to:
 

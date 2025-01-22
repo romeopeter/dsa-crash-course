@@ -1,4 +1,4 @@
-# Array and String: Dynamic arrays, common string operations, sliding window technique (15 - 22 Jan).
+# Arrays and Strings: Dynamic arrays, common string operations, sliding window technique (15 - 22 Jan).
 
 Arrays and Strings are fundamental data structure for storing and manipulating collections of elements. Strings can be treated as immutable array of characters.
 
@@ -73,6 +73,6 @@ The **Sliding Window Technique** is an optimization strategy used to reduce nest
 - Iterates through the array once: O(n).
 - Space complexity depends on auxiliary structures like dictionaries or sets.
 
-# Practice Problem
+# Practice Problem 
 
 Problem: Find all anagram of string a string `P` in string of `S`. See code `find-anagram.py`.
